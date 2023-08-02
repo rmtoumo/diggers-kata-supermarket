@@ -1,0 +1,17 @@
+﻿------ Supermaket ------
+
+Vous êtes gérant d'un supermarché qui vient d'ouvrir et qui a tout à mettre en place pour satisfaire les clients. 
+Votre rôle est d'ajuster les prix et les stocks de chacun des produits et de gérer leur disposition dans les rayons.
+
+IMPORTANT : Les étapes sont à découvrir UNE PAR UNE.
+
+-- Etape 1
+
+"Ca serait pas mal si on vendait des pommes. Tout le monde aime les pommes. Mangez des pommes."
+
+La pomme est un fruit comestible à pépins d'un goût sucré et acidulé et à la propriété plus ou moins astringente selon les variétés.
+- Le stock de pomme démarra à 50
+- Le prix d'une pomme est de 25 (me demandez pas de quoi...)
+- le plus important : Quand il n'y a plus de pommes, "No more apples available!!!" s'affiche en gros clignotant sur l'écran de contrôle
+* Objectif : Valider les tests de Step1.cs *
+* Temps estimé : 10min *

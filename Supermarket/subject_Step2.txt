@@ -1,0 +1,30 @@
+﻿------ Supermaket ------
+
+Vous êtes gérant d'un supermarché qui vient d'ouvrir et qui a tout à mettre en place pour satisfaire les clients. 
+Votre rôle est d'ajuster les prix et les stocks de chacun des produits et de gérer leur disposition dans les rayons.
+
+IMPORTANT : Les étapes sont à découvrir UNE PAR UNE.
+
+-- Etape 1
+
+"Ca serait pas mal si on vendait des pommes. Tout le monde aime les pommes. Mangez des pommes."
+
+La pomme est un fruit comestible à pépins d'un goût sucré et acidulé et à la propriété plus ou moins astringente selon les variétés.
+- Le stock de pomme démarra à 50
+- Le prix d'une pomme est de 25 (me demandez pas de quoi...)
+- le plus important : Quand il n'y a plus de pommes, "No more apples available!!!" s'affiche en gros clignotant sur l'écran de contrôle
+* Objectif : Valider les tests de Step1.cs *
+* Temps estimé : 10min *
+
+
+
+-- Etape 2
+
+"Les gens en ont un peu marre d'acheter que des pommes. Vendons des pâtes, c'est bien les pâtes!"
+
+Les pâtes alimentaires sont des aliments fabriqués à partir d'un mélange pétri de farine, de semoule de blé dur, d'épeautre, de blé noir, de riz ou d'autres types de céréales, d'eau et parfois d'œuf et de sel. 
+- On démarre avec un stock de pâtes à 75, ça devrait faire fureur
+- Le prix d'un paquet de pâte est de 50.
+- Quand il n'y a plus de pâtes, "No more pastas available!!!" s'affiche en gros clignotant sur l'écran de contrôle
+* Objectif : Valider les tests de Step2.cs *
+* Temps estimé : 5min-10min *
